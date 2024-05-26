@@ -33,8 +33,14 @@ main {
     width: 267px;
     height: 471px;
 }
+#redessociais {
+    text-align: right;
+    padding-top: 70px;
+}
 
 #redessociais img {
-    width: 50px;
-    height: 50px;
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
 }
